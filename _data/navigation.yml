@@ -1,9 +1,9 @@
-- name: Pricing
-  link: /pricing/
+- name: About Project
+  link: /aboutproject/
   new_window: false
   highlight: false
-- name: Blog
-  link: /blog/
+- name: 다운로드
+  link: /download/
   new_window: false
   highlight: false
 - name: About
@@ -14,11 +14,7 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /
+- name: Blog
+  link: /blog/
   new_window: true
   highlight: false
-- name: Sign Up
-  link: /
-  new_window: true
-  highlight: true
