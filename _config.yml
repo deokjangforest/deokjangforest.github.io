@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: 덕장중학교_모바일 숲
+url: "https://deokjangforest.github.io"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -23,7 +23,7 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Ktc/UTC+9
 
 collections:
   staff_members:
