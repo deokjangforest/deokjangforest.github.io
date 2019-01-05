@@ -1,4 +1,4 @@
-- name: About Project
+- name: Project
   link: /aboutproject/
   new_window: false
   highlight: false
@@ -10,11 +10,11 @@
   link: /about/
   new_window: false
   highlight: false
-- name: 연락하기
+- name: Contact
   link: /contact/
   new_window: false
   highlight: false
-- name: 업데이트 소식/알림
+- name: Notice
   link: /blog/
   new_window: true
   highlight: false
