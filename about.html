@@ -6,6 +6,11 @@ description: 덕장중학교 모바일 숲 어플리케이션과 함께하는 �
 <ul class="staff">
 	{% for person in site.staff_members %}
 		<li>
+			<div class="square-image"><img src="{% include relative-src.html src=person.image_path %}" alt="{{ 강재현 }}"/></div>
+			<div class="name"><a target="_blank" href="https://twitter.com/{{ kanglogdev }}">{{ 강재현 }}</a></div>
+			<div class="position">{{ Developer }}</div>
+		</li>
+	<li>
 			<div class="square-image"><img src="{% include relative-src.html src=person.image_path %}" alt="{{ person.name }}"/></div>
 			<div class="name"><a target="_blank" href="https://twitter.com/{{ person.twitter }}">{{ person.name }}</a></div>
 			<div class="position">{{ person.position }}</div>
