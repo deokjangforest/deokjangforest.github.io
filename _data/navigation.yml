@@ -6,15 +6,15 @@
   link: /download/
   new_window: false
   highlight: false
-- name: About
+- name: 개발자 소개
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
+- name: 연락하기
   link: /contact/
   new_window: false
   highlight: false
-- name: Blog
+- name: 업데이트 소식/알림
   link: /blog/
   new_window: true
   highlight: false
