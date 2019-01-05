@@ -1,7 +1,7 @@
 ---
-name: Tom Wilson
-position: CTO
-image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-twitter: CloudCannonApp
-blurb: Tom likes to travel and has visited over 50 countries.
+name: 기강민
+position: 나무 조사
+image_path: https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-1/c47.0.160.160a/p160x160/10354686_10150004552801856_220367501106153455_n.jpg?_nc_cat=1&_nc_ht=scontent-icn1-1.xx&oh=e9b7dc5675edbd92d67eec27f65f0969&oe=5CC35C1E
+twitter:
+blurb: .
 ---
